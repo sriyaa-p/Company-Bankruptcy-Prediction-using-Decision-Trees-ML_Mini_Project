@@ -49,6 +49,7 @@ Develop a Decision Tree model using scikit-learn to classify companies as bankru
 
 ## **Setup and Instructions**
 **(If we run on system)**
+
 **1. Clone Repo**
 - git clone https://github.com/your-username/Company-Bankruptcy-Prediction.git
 - cd Company-Bankruptcy-Prediction

@@ -5,6 +5,7 @@
 **Campus:** EC  
 **Branch:** AIML  
 **Section:** B  
+**Team number:** B3
 **Team Members:**
 - [@sriyaa-p](https://github.com/sriyaa-p) - Sriya Panda (PES2UG23AM104)
 - [@Srinidhi8105](https://github.com/Srinidhi8105) - Srinidhi S (PES2UG23AM103)

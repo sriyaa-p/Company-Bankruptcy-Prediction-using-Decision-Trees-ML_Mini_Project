@@ -48,16 +48,15 @@ Develop a Decision Tree model using scikit-learn to classify companies as bankru
 5. Comparision Before Tuning and After Tuning
 
 ## **Setup and Instructions**
-(If we run on system)
-- **1. Clone Repo**
-git clone https://github.com/your-username/Company-Bankruptcy-Prediction.git
+**(If we run on system)**
+**1. Clone Repo**
+- git clone https://github.com/your-username/Company-Bankruptcy-Prediction.git
+- cd Company-Bankruptcy-Prediction
 
-cd Company-Bankruptcy-Prediction
-
-- **2. Install dependencies**
+**2. Install dependencies**
 pip install -r requirements.txt
 
-- **3. Launch NB**
+**3. Launch NB**
 
 **(For Colab)**
 1. Go to Google Colab
